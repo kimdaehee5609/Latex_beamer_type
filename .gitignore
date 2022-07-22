@@ -10,3 +10,5 @@
 *.gz
 *.idx
 *.lof
+*.nav
+*.snm
