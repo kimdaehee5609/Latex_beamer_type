@@ -6,4 +6,6 @@ LaTeX beamer type
 
 
 
+git clone https://github.com/kimdaehee5609/Latex_beamer_type.git
+
 
